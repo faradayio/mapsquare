@@ -1,0 +1,30 @@
+{
+  "name": "mapsquare",
+  "version": "1.0.0",
+  "description": "Get GeoJSON from the Foursquare venues API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faradayio/mapsquare.git"
+  },
+  "keywords": [
+    "map",
+    "foursquare",
+    "geojson"
+  ],
+  "bin": {
+    "mapsquare": "index.js"
+  },
+  "author": "bill@faraday.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faradayio/mapsquare/issues"
+  },
+  "homepage": "https://github.com/faradayio/mapsquare#readme",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
+}
