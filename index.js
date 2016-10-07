@@ -4,19 +4,30 @@
 "use strict"
 let fs = require('fs')
 let request = require('request')
+let commandLineArgs = require('command-line-args')
+ 
+let optionDefinitions = [
+  { name: 'location', alias: 'l', type: String },
+  { name: 'query', alias: 'q', type: String },
+  { name: 'auth', alias: 'a', type: String },
+  //{ name: 'gist', alias: 'g', type: Boolean, defaultValue: false }
+]
 
-let near = process.argv[2]
-let query = process.argV[3]
-let authToken = process.argv[4]
+let options = commandLineArgs(optionDefinitions)
+
+let near = options.location
+let query = options.query
+let authToken = options.auth
+//let gistFlag = options.gist
 
 let exploreUrl = 'https://api.foursquare.com/v2/venues/explore?limit=50&near=' + near + '&query=' + query + '&oauth_token=' + authToken + '&v=20161005'
 
 let outGeojson = {type: 'FeatureCollection', features: []}
+
 request(exploreUrl, function (error, response, body) {
   if (!error && response.statusCode == 200) {
     let payload = JSON.parse(body)
     let items = payload.response.groups[0].items
-    console.log(items.length)
     for (var i = 0; i < items.length; i++) {
       outGeojson.features.push({
         type: 'Feature', 
@@ -28,7 +39,8 @@ request(exploreUrl, function (error, response, body) {
           city: items[i].venue.location.city || '',
           state: items[i].venue.location.state || '',
           postcode: items[i].venue.location.postalCode || '',
-          foursquare_rating: items[i].venue.rating || ''
+          foursquare_rating: items[i].venue.rating || '',
+          marker-color: '#' + items[i].venue.ratingColor || '#DCDCDC'
         }, 
         geometry: { 
           type: 'Point', 
@@ -39,8 +51,11 @@ request(exploreUrl, function (error, response, body) {
         }
       })
     }
-    fs.writeFileSync('foursquare_' + payload.response.geocode.slug + '.geojson', JSON.stringify(outGeojson, NULL, 2))
+    //if (gistFlag === true) {
+      //console.log('Anonymous gist posted to XXXXXXX')
+    //} else {
+      fs.writeFileSync('foursquare_' + payload.response.geocode.slug + '.geojson', JSON.stringify(outGeojson, null, 2))
+      console.log('Output file: "foursquare_' + payload.response.geocode.slug + '.geojson"')
+    //}
   }
 })
-
-
