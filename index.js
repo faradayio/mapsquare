@@ -1,5 +1,4 @@
-// USAGE: node index.js <location (e.g. 'Salt Lake City, UT')> <query (e.g. 'Hardware')> <foursquare auth token>
-// API options: https://developer.foursquare.com/docs/venues/explore 
+#!/usr/bin/env node
 
 "use strict"
 let fs = require('fs')
