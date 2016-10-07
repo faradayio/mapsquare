@@ -21,7 +21,7 @@ _Get GeoJSON from the [Foursquare venues API](https://developer.foursquare.com/d
 ### Notes
 
 - Limited to 50 venues per request - Foursquare will choose these based on ratings and relevance, not necessarily by proximity
-- Be sure to fork the gist outputs to your own github account
+- Be sure to fork the gist outputs ([like this one](https://gist.github.com/anonymous/6c25841756efc86c84c6b615e0279d8c)) to your own github account
 
 ## License
 
