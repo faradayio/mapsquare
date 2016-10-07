@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/faradayio/mapsquare#readme",
   "dependencies": {
+    "command-line-args": "^3.0.1",
     "request": "^2.75.0"
   }
 }

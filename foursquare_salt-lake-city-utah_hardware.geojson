@@ -1,0 +1,1055 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IFA Country Store",
+        "phone": "8019723009",
+        "url": "http://www.intermountainfarmers.com/",
+        "address": "1147 W 2100 S",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84119",
+        "foursquare_rating": 8.2,
+        "marker-color": "#73CF42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92378764827008,
+          40.72563087052855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Home Depot",
+        "phone": "8014614248",
+        "url": "http://www.homedepot.com/l/E-Salt-Lake-City/UT/Salt-Lake-City/84106/4413",
+        "address": "3398 S Highland Drive",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84106",
+        "foursquare_rating": 7.7,
+        "marker-color": "#C5DE35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508410453797,
+          40.69778706057742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harbor Freight Tools",
+        "phone": "8014849556",
+        "url": "http://www.harborfreight.com/",
+        "address": "3470 S State St",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": 6.8,
+        "marker-color": "#FFC800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8891633,
+          40.695685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harbor Freight Tools",
+        "phone": "8014849556",
+        "url": "",
+        "address": "3470 S State St",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": 6.6,
+        "marker-color": "#FFC800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.88717778898835,
+          40.69983107017988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lowe's Home Improvement",
+        "phone": "8018281640",
+        "url": "http://www.lowes.com/store/UT-Salt-Lake-City/2275",
+        "address": "1335 South 300 West",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": 6.6,
+        "marker-color": "#FFC800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.897615,
+          40.740172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitat For Humanity Restore",
+        "phone": "",
+        "url": "",
+        "address": "",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84101",
+        "foursquare_rating": 6.4,
+        "marker-color": "#FFC800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.90551769388432,
+          40.74169220617344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sherwin-Williams Paint Store",
+        "phone": "8014864925",
+        "url": "http://www.sherwin-williams.com/store-locator/paint-store/salt-lake-city/ut/8161",
+        "address": "2071 S Douglas St",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84105",
+        "foursquare_rating": 6.4,
+        "marker-color": "#FFC800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.85496923441045,
+          40.725516047482714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Home Depot",
+        "phone": "8014673900",
+        "url": "http://www.homedepot.com/l/21st-South/UT/Salt-Lake-City/84115/4403",
+        "address": "328 West 2100 South St",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": 6.4,
+        "marker-color": "#FFC800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.90071940422058,
+          40.72720591871577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Home Depot",
+        "phone": "8015670700",
+        "url": "http://www.homedepot.com/l/Park-Centre/UT/Salt-Lake-City/84121/4402",
+        "address": "1310 E Park Centre Dr",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84121",
+        "foursquare_rating": 7.1,
+        "marker-color": "#C5DE35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.85294926166534,
+          40.62174210266119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sutherlands",
+        "phone": "8015380000",
+        "url": "",
+        "address": "1780 W North Temple",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84116",
+        "foursquare_rating": 6.2,
+        "marker-color": "#FFC800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.94163249823187,
+          40.772493594389175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ace Hardware at Olympus Hills",
+        "phone": "8014241414",
+        "url": "http://www.acehardware.com/mystore/index.jsp?store=14232",
+        "address": "3939 S Wasatch Blvd",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84124",
+        "foursquare_rating": 6.6,
+        "marker-color": "#FFC800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.794825792312,
+          40.686247742336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ace Hardware",
+        "phone": "8013646567",
+        "url": "http://www.acehardware.com/mystore/index.jsp?store=11772&cid=localstore11772",
+        "address": "612 E 400 S",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84102",
+        "foursquare_rating": 5.8,
+        "marker-color": "#FF9600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.873435974121,
+          40.7601631739201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marshall's Industrial Hardware",
+        "phone": "",
+        "url": "",
+        "address": "",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84104",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.95133214087699,
+          40.74085085160289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kmart",
+        "phone": "8012664437",
+        "url": "http://www.kmart.com/stores/utah/salt-lake-city/4159.html#YW8mPl",
+        "address": "4670 S 900 E",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84117",
+        "foursquare_rating": 5.7,
+        "marker-color": "#FF9600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.86662,
+          40.66881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CMI Moulding",
+        "phone": "",
+        "url": "",
+        "address": "",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89572477707631,
+          40.7115330203553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johnstone Supply",
+        "phone": "",
+        "url": "",
+        "address": "2940 S 300 W",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.900676,
+          40.706651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M&M Tool and Machinery",
+        "phone": "8014858200",
+        "url": "http://www.mmtoolparts.com",
+        "address": "3362 South Main Street",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89124955952454,
+          40.69824798841773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Standard Builders Supply",
+        "phone": "8014877731",
+        "url": "",
+        "address": "220 W 2700 S",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89875602722167,
+          40.7139232974995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carver Sheet Metal",
+        "phone": "8016718288",
+        "url": "",
+        "address": "1349 S Jefferson St",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89515420212415,
+          40.74168504280394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Graybar",
+        "phone": "8016563000",
+        "url": "http://www.graybar.com/locations/ut/salt-lake-city",
+        "address": "2841 South 900 West",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84119",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.91621184349066,
+          40.7107577639373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Advance Manufacturing Technology",
+        "phone": "8019739462",
+        "url": "",
+        "address": "839 S 3600 W",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84104",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.977214,
+          40.750742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PFS",
+        "phone": "",
+        "url": "",
+        "address": "350 W 2880 S",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.90094728084897,
+          40.70893101644966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kwal-paint",
+        "phone": "8012628466",
+        "url": "",
+        "address": "4285 S State St",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84107",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.88766241073608,
+          40.67820742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Studio IL Bagno",
+        "phone": "8014848552",
+        "url": "http://www.ilbagno.com",
+        "address": "3010 S West Temple",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89441263020018,
+          40.705883278949905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sears Service & Repair Center",
+        "phone": "8014937474",
+        "url": "",
+        "address": "3158 S Main St",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8915512,
+          40.7022973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westech Equipment",
+        "phone": "8012662545",
+        "url": "http://www.westechfuel.com",
+        "address": "195 W 3900 S",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84107",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.896785,
+          40.686702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaman",
+        "phone": "",
+        "url": "",
+        "address": "",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84104",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9959932126467,
+          40.7318788364635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burton Lumber Co",
+        "phone": "8019523700",
+        "url": "http://www.burtonlumber.com",
+        "address": "1170 S 4400 W",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84104",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9978484,
+          40.7455989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rudy's Keys",
+        "phone": "",
+        "url": "",
+        "address": "2040 S 1000 E",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84105",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.86231690364802,
+          40.7255539158047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Standard Plumbing Supply Co",
+        "phone": "8019778100",
+        "url": "",
+        "address": "1890 S Redwood Rd",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84104",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93969373089438,
+          40.724741315697145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roofers Supply",
+        "phone": "",
+        "url": "",
+        "address": "",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.905121,
+          40.698746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Industrial Supply",
+        "phone": "8014848644",
+        "url": "",
+        "address": "1635 S 300 W",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89906671448746,
+          40.73399887811091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harbor Freight Tools",
+        "phone": "#ERROR!",
+        "url": "http://www.harborfreight.com",
+        "address": "4660 S 4000 W",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84120",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.98461,
+          40.70839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Platt Electric Supply",
+        "phone": "8019721464",
+        "url": "http://t.co/mbPacQylBz",
+        "address": "1730 S 4650 W Ste A",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84104",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112,
+          40.735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FORCE America, Inc.",
+        "phone": "8018861602",
+        "url": "http://www.forceamerica.com",
+        "address": "3060 W California Ave Ste F",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84104",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.964191198349,
+          40.7416320618884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vic's Keys & Repair Shop",
+        "phone": "",
+        "url": "",
+        "address": "",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84101",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.899485,
+          40.757317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electrical Wholesale Supply",
+        "phone": "8012682555",
+        "url": "",
+        "address": "158 W 4500 S",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84107",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.88699730063291,
+          40.67418974757012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wilson Mohr",
+        "phone": "8014868791",
+        "url": "",
+        "address": "3186 S Washington St",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8977683663056,
+          40.70300619808898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferguson Counter",
+        "phone": "8019563500",
+        "url": "http://www.ferguson.com/BranchPage/locations-finder/branch_landing_page.jsp?R=1881&branch=3032",
+        "address": "1422 S 4450 W",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84104",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.99847,
+          40.739662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferguson Waterworks",
+        "phone": "8019563600",
+        "url": "http://www.ferguson.com/BranchPage/locations-finder/branch_landing_page.jsp?R=1018&branch=1616",
+        "address": "1492 S 4450 W",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84104",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.997936,
+          40.737712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "All Discount Concrete",
+        "phone": "8016370354",
+        "url": "http://local.ksl.com/listings/all-discount-concrete/131919",
+        "address": "",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84093",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.91343307495117,
+          40.760975823765826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sherwin-Williams Commercial Paint Store",
+        "phone": "8019750199",
+        "url": "http://www.sherwin-williams.com/store-locator/commercial-paint-store/west-valley-city/ut/8546",
+        "address": "3173 W 2100 S",
+        "city": "West Valley City",
+        "state": "UT",
+        "postcode": "84119",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.96726138582423,
+          40.72571877226826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paxton Production Tools",
+        "phone": "8013648417",
+        "url": "",
+        "address": "559 S 400 W",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84101",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.902365,
+          40.756694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bolt & Nut Supply",
+        "phone": "",
+        "url": "",
+        "address": "2212 S West Temple",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89453704953598,
+          40.72282414981883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "All Hour Locksmith",
+        "phone": "8018333220",
+        "url": "",
+        "address": "369 E 900 S",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84111",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89077377319336,
+          40.76656658538413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garage Door Repair Salt Lake City",
+        "phone": "8019236013",
+        "url": "",
+        "address": "E 1300 S",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84108",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.82436227798462,
+          40.742201076382784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mmtoolparts.com",
+        "phone": "8775837278",
+        "url": "http://www.mmtoolparts.com",
+        "address": "3362 S Main St",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89153529999999,
+          40.6983643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "England Plumbing Supply",
+        "phone": "8014853371",
+        "url": "http://www.englandplumbingsupplies.com/wp",
+        "address": "1009 E 3300 S",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84106",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.86211168766022,
+          40.70011745929532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moonlight Garden Supply",
+        "phone": "3852278110",
+        "url": "http://moonlightgardensupply.com",
+        "address": "1572 S State St",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84115",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.888664,
+          40.735332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Western Supply, Inc.",
+        "phone": "3853550631",
+        "url": "http://www.gwsupply.com",
+        "address": "2425 S 3200 W",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postcode": "84119",
+        "foursquare_rating": "",
+        "marker-color": "#A8A7A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.96764,
+          40.71801
+        ]
+      }
+    }
+  ]
+}

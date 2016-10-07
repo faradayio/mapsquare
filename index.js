@@ -29,6 +29,7 @@ request(exploreUrl, function (error, response, body) {
     let payload = JSON.parse(body)
     let items = payload.response.groups[0].items
     for (var i = 0; i < items.length; i++) {
+      let markerColor = items[i].venue.ratingColor || 'A8A7A9'
       outGeojson.features.push({
         type: 'Feature', 
         properties: {
@@ -40,7 +41,7 @@ request(exploreUrl, function (error, response, body) {
           state: items[i].venue.location.state || '',
           postcode: items[i].venue.location.postalCode || '',
           foursquare_rating: items[i].venue.rating || '',
-          marker-color: '#' + items[i].venue.ratingColor || '#DCDCDC'
+          "marker-color": '#' + markerColor
         }, 
         geometry: { 
           type: 'Point', 
@@ -54,8 +55,8 @@ request(exploreUrl, function (error, response, body) {
     //if (gistFlag === true) {
       //console.log('Anonymous gist posted to XXXXXXX')
     //} else {
-      fs.writeFileSync('foursquare_' + payload.response.geocode.slug + '.geojson', JSON.stringify(outGeojson, null, 2))
-      console.log('Output file: "foursquare_' + payload.response.geocode.slug + '.geojson"')
+      fs.writeFileSync('foursquare_' + payload.response.geocode.slug + '_' + query + '.geojson', JSON.stringify(outGeojson, null, 2))
+      console.log('Output file: "foursquare_' + payload.response.geocode.slug + '_' + query + '.geojson"')
     //}
   }
 })
