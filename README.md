@@ -13,10 +13,10 @@ _Get GeoJSON from the [Foursquare venues API](https://developer.foursquare.com/d
 
 ### Arguments
 
-* `-l, --location` A placename for the venue search (e.g. 'Salt Lake City, UT')
-* `-q, --query` A venue type keyword (e.g. 'hardware' or 'movie theater')
-* `-a, --auth` Foursquare authorization token. [Get a convenience token for testing here](https://developer.foursquare.com/docs/explore#req=venues/explore%3Fnear%3DSalt+Lake+City,+UT%26query%3Dpark) (Foursquare login or signup required).
-* `-g, --gist` (OPTIONAL) Flag to output results as an anonymous gist
+* `-l, --location` (_REQUIRED_) A placename for the venue search (e.g. 'Salt Lake City, UT')
+* `-q, --query` (_REQUIRED_) A venue type keyword (e.g. 'hardware' or 'movie theater')
+* `-a, --auth` (_REQUIRED_) Foursquare authorization token. [Get a convenience token for testing here](https://developer.foursquare.com/docs/explore#req=venues/explore%3Fnear%3DSalt+Lake+City,+UT%26query%3Dpark) (Foursquare login or signup required).
+* `-g, --gist` (_OPTIONAL_) Flag to output results as an anonymous gist
 
 ### Notes
 
